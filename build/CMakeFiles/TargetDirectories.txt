@@ -1,0 +1,3 @@
+/home/orionxer/ai/hello_codex/build/CMakeFiles/rebuild_cache.dir
+/home/orionxer/ai/hello_codex/build/CMakeFiles/edit_cache.dir
+/home/orionxer/ai/hello_codex/build/CMakeFiles/hello_world.dir
